@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+header{
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+header .t1{
+  padding: 20px;
+  font-size: 30px;
+}
+main{
+  width: 840px;
+  margin: 50px auto;
+}
+
+.blog1{
+  margin-top: 50px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid#6c6b6b;
+}
+.blog2{
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid#6c6b6b;
+}
+.blog3{
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid#6c6b6b;
+}
+.blog4{
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid#6c6b6b;
+}
